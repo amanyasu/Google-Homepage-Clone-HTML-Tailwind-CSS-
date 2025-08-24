@@ -19,4 +19,5 @@ HTML5 for structure
 
 Tailwind CSS v4 for styling
 
-Open Sans (Google Fonts) for typography
+Open Sans (Google Fonts) for typography .
+
